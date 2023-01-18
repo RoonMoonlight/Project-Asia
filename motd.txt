@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<html>
+<head>
+<title>Welcome to Roon's TF2C Server</title>
+<style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+      overflow: hidden;
+      margin: 0;
+      padding: 0;
+      background-color: #873232;
+      color: #FFFFFF;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 22px;
+      line-height: 24px;
+    }
+	
+    .main {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      width: 100vw;
+    }
+
+    a {
+      margin: 0;
+      text-decoration: none;
+      font-weight: 600;
+      line-height: 24px;
+      color: #0000FF;
+    }
+	
+
+    p:last-of-type {
+      margin-bottom: 0;
+    }
+    </style>
+</head>
+<body>
+<div class="header">
+    <h1>Welcome to Roon's TF2C Server</h1>
+</div>
+<div class="body">
+    <p>Welcome to Roon's TF2C Server, which has the record of first Team Fortress 2 Classic server located in asia, dedicated to asian TF2 players.</p>
+    <p>Currently we only host only official maps, and doesn't have any plan to support custom maps (unless TF2C adds new map for each update). Our server's map rotations can be found <a href="https://github.com/RoonMoonlight/Project-Asia/blob/master/mapcycle.txt">here</a>.</p>
+    <p>To avoid intimidating players, our servers are <b><u>not</u></b> 
+    moderated by admin. Instead, players are responsible for using the 
+    available in-game tools to police their server to their preferences, 
+    just like in Valve's casual servers. Bans will only be issued to bots, 
+    cheaters, stalkers, etc.</p>
+    <hr>
+    <h1>Support us</h1>
+    <p>Server hosting costs money! If you enjoyed playing on our server, please consider <a href="https://ko-fi.com/mysticmoonlight">buying us a coffee from Ko-Fi</a> to keep the server running.</p>
+    <p>Have fun!</p>
+</div>
+</body>
+</html>
