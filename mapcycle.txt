@@ -1,0 +1,86 @@
+// Roon's TF2C Server Map Rotations
+// Note: Territorial Control is excluded from map rotation due to lack of popularity.
+
+// Arena
+arena_badlands
+arena_flask
+arena_granary
+arena_lumberyard
+arena_nucleus
+arena_offblast_final
+arena_ravine
+arena_sawmill
+arena_watchtower
+arena_well
+
+// Attack & Defense
+cp_amaranth
+cp_degrootkeep
+cp_dustbowl
+cp_egypt_final
+cp_furnace_rc1
+cp_gorge
+cp_gravelpit
+cp_junction_final
+cp_mountainlab
+cp_steel
+
+// Capture the Flag
+ctf_2fort
+ctf_casbah
+ctf_doublecross
+ctf_landfall
+ctf_pelican_peak_tf2c
+ctf_sawmill
+ctf_turbine
+ctf_well
+
+// Control Points
+cp_badlands
+cp_coldfront
+cp_fastlane
+cp_foundry
+cp_freight_final1
+cp_5gorge
+cp_granary
+cp_gullywash_final1
+cp_powerhouse
+cp_tidal_v4
+cp_well
+
+// Domination
+dom_hydro
+dom_oilcanyon
+
+// King of the Hill
+koth_badlands
+koth_harvest_final
+koth_highpass
+koth_king
+koth_lakeside_final
+koth_nucleus
+koth_sawmill
+koth_viaduct
+
+// Payload
+pl_badwater
+pl_barnblitz
+pl_frontier_final
+pl_goldrush
+pl_hoodoo_final
+pl_thundermountain
+pl_upward
+
+// Payload Race
+plr_hightower
+plr_nightfall_final
+plr_pipeline
+
+// Special Delivery
+sd_doomsday
+
+// VIP
+vip_badwater
+vip_harbor
+vip_mineside
+vip_trainyard
