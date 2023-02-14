@@ -1,12 +1,16 @@
-Welcome to Roon's TF2C Server, which has the record of first Team Fortress 2 Classic server located in asia, dedicated to asian TF2 players.
+Welcome to Roon's TF2C Server, which has the record of second Team Fortress 2 Classic server located in asia in history, dedicated to asian TF2 players.
 
 Currently we only host only official maps, and doesn't have plan to support custom maps.
 Our server's map rotations can be found here: https://github.com/RoonMoonlight/Project-Asia/blob/master/mapcycle.txt
 
-To avoid intimidating players, our servers are NOT moderated by admin.
-Instead, players are responsible for using the available in-game tools to police their server to their preferences, just like in Valve's casual servers.
-Bans will only be issued to bots, cheaters, stalkers, etc.
+Roon's Server Community Guidelines:
+1. Hateful, bigoted slurs, racism, doxxing and any words that could offend other mercenaries are not allowed.
+2. Impersonation of other players, including staff members are discouraged.
+3. Any contents with pornography, gory, death-depicting or other such abuse contents are not allowed.
+4. Cheating, using third party mod that gives unfair advantage, or exploiting server's system are not allowed.
 
 Server hosting costs money. If you enjoyed playing on our server, please consider buying us a coffee from Ko-Fi: https://ko-fi.com/mysticmoonlight
+
+Join our Roon's TF2C Server #servers at TF2C official discord for more information and status: https://discord.gg/3zMk4vn
 
 Have fun!
